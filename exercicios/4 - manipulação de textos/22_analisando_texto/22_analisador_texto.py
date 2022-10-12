@@ -1,0 +1,5 @@
+nc = str(input("Por favor, digite seu nome completo:")).strip()
+print(nc.upper())
+print(nc.lower())
+print(f"Seu nome de {len(nc) - nc.count(' ')}")
+print(f"Seu primeiro nome tem {nc.find(' ')} letras)
