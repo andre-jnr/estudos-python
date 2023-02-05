@@ -1,2 +1,2 @@
-var = 'Andre'
-print('o nome do programador é {}'.format(var))
+variavel = 'Andre'
+print('o nome do programador é {}'.format(variavel))
