@@ -1,24 +1,25 @@
-# O básico - primeiros passos
+# Comandos básicos
 
 Aqui, listarei tudo o que é necessário para tomar os primerios passos, nessa caminhada na programação em Python.
 
 ```python
 print("Olá mundo!") # Imprime Olá mundo na tela.
 ```
-<br/>
-
->❗ Toda variável do tipo String precisa conter ‘aspas simples’ ou “duplas”
 
 <br/>
 
-~~~python
+> ❗ Toda variável do tipo String precisa conter ‘aspas simples’ ou “duplas”
+
+<br/>
+
+```python
 type(variavel) # revela o tipo da variável.
 print(type(variavel)) # Imprime na tela o tipo da variável
-~~~
+```
 
 <br>
 
->❗ Para ler um número do usuário, utilizamos o comando `input`
+> ❗ Para ler um número do usuário, utilizamos o comando `input`
 
 <br>
 
@@ -43,17 +44,18 @@ variavel = 10
 
 Há 4 tipos de variáveis
 
-var | tipo | exemplo
-----|------|--------
-string | caracter | '@andre2'
-int | inteiros | -1, 0, 1
-float | reais | 1.0, 1,2, 0,42
+| var    | tipo     | exemplo        |
+| ------ | -------- | -------------- |
+| string | caracter | '@andre2'      |
+| int    | inteiros | -1, 0, 1       |
+| float  | reais    | 1.0, 1,2, 0,42 |
 
 <br>
 
 ### Primeiros passos
 
 - Para declarar uma variável do tipo string, utilizamos aspas simples ou duplas:
+
 ```python
 nome = "Júnior"
 print(f"Meu nome é {nome}")
@@ -64,6 +66,7 @@ print(f"Meu nome é {nome}")
 <br>
 
 - Também é possível separar o texto da variável utilizando vírgula:
+
 ```python
 nome = 'junior'
 print('meu nome é ', nome)
@@ -105,10 +108,13 @@ print(f"{nome} gosta de {gosto} e tem {idade} anos")
 ```
 
 ### Exercícios
+
 Agora você tem o necessário para tomar os primeiros passos em python!
 
-- [Exercício 001](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/001_deixando_tudo_pronto): Declare uma variável que contenha o seu nome, e imprima na tela para o usuário.
-- [Exercício 002](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/002_respondendo_ao_usuario): Cria um programa que leia um valor qualquer, digitado pelo usuário, depois mostre: 
-    - O tipo primitivo
-    - Se só foi digitado espaços
-    - Se é um número
+- [Exercício 01:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/001_deixando_tudo_pronto) Declare uma variavel com o nome do programador e exiba ela ao usuário.
+
+- [Exercício 002:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/002_boas-vindas) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+
+- [Exercício 003:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/003_soma) Crie um programa que leia dois números e mostre a soma entre eles.
+
+- [Exercício 004:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/004_tipo_primiticos) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.

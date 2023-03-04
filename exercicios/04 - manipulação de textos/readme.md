@@ -1,8 +1,8 @@
 # Manipulação de textos
 
 - **String:** variável do tipo caractere (texto)
-> Uma string é qualquer texto escrito dentro de aspas
-<br>
+  > Uma string é qualquer texto escrito dentro de aspas
+  > <br>
 
 ```python
 # Como declarar e imprimir uma string:
@@ -73,9 +73,9 @@ for letra in minha_string:
 
 ### Centralizar
 
- - **Dois pontos(:):** informa que vamos tratar a variável
- - **Circunflexo(^):** informa que queremos centralizar
- - **N°:** informamos a quantidade de espaços onde será centralizado
+- **Dois pontos(:):** informa que vamos tratar a variável
+- **Circunflexo(^):** informa que queremos centralizar
+- **N°:** informamos a quantidade de espaços onde será centralizado
 
 ```python
 print(f'{"LISTAGEM DE PREÇOS":^30}')
@@ -100,3 +100,21 @@ print(f'{listagem[produto]:.<20}')
 ```python
 print(f'R${listagem[produto]:>7.2f}')
 ```
+
+# Exercicios
+
+- [Exercício 022:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/022_analisando_texto) Crie um programa que leia o nome completo de uma pessoa e mostre:
+
+  - O nome com todas as letras maiúsculas e minúscula.
+
+  - Quantas letras ao todo (sem considerar espaços).
+
+  - Quantas letras tem o primeiro nome.
+
+- [Exercício 023:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/023_separando_digitos) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+- [Exercício 024:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/024_verificando_primeiras_letras_texto) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
+
+- [Exercício 025:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/025_procurando_string_dentro_string) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
+
+- [Exercício 026:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/026_primeira_ultima_ocorrencia_string) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.

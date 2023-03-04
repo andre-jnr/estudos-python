@@ -145,3 +145,89 @@ elif (media >= 5) and (presença >= 70):
 else:
     print('Reprovado')
 ```
+
+## Exercicios
+
+- [Exercício 027:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/027_primeiro_ultimo_nome) Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+- [Exercício 028:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/028_jogo_advinhe_0_5>) Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+- [Exercício 029:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/029_radar%20eletronico>) Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+- [Exercício 030:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/030_par_ou_impar>) Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+- [Exercício 031:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/031_custo_viagem>) Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+- [Exercício 032:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/032_ano_bissexto>) Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+- [Exercício 033:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/033_maior_menor_valor>) Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+- [Exercício 034:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/034_aumentos_multiplos>) Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+
+- [Exercício 035:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/035_analisando_triangulo>) Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+- [Exercício 036:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/036_aprovando_emprestimo>) Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+
+- [Exercício 037:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/037_conversor_base_binario>) Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+
+- [Exercício 038:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/038_comparando_numeros>) Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
+
+  - O primeiro valor é maior
+
+  - O segundo valor é maior
+
+  - Não existe valor maior, os dois são iguais
+
+- [Exercício 039:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/039_alistamento_militar>) Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+
+- [Exercício 040:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/040_media_com_aprovacao>) Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+
+  - Média abaixo de 5.0: REPROVADO
+
+  - Média entre 5.0 e 6.9: RECUPERAÇÃO
+
+  - Média 7.0 ou superior: APROVADO
+
+- [Exercício 041:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/041_classificando_atletas>) A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+
+  - Até 9 anos: MIRIM
+
+  - Até 14 anos: INFANTIL
+
+  - Até 19 anos: JÚNIOR
+
+  - Até 25 anos: SÊNIOR
+
+  - Acima de 25 anos: MASTER
+
+- [Exercício 042:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/042_analisando_triangulo_condicional>) Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+
+  - EQUILÁTERO: todos os lados iguais
+
+  - ISÓSCELES: dois lados iguais, um diferente
+
+  - ESCALENO: todos os lados diferentes
+
+- [Exercício 043:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/043_indice_massa_corporal>) Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+
+  - IMC abaixo de 18,5: Abaixo do Peso
+
+  - Entre 18,5 e 25: Peso Ideal
+
+  - 25 até 30: Sobrepeso
+
+  - 30 até 40: Obesidade
+
+  - Acima de 40: Obesidade Mórbida
+
+- [Exercício 044:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/044_gerenciando_pagamentos>) Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+
+  - à vista dinheiro/cheque: 10% de desconto
+
+  - à vista no cartão: 5% de desconto
+
+  - em até 2x no cartão: preço formal
+
+  - 3x ou mais no cartão: 20% de juros
+
+- [Exercício 045:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/045_pedra_papel_tesoura>) Crie um programa que faça o computador jogar Jokenpô com você.
