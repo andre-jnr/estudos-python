@@ -4,7 +4,7 @@ Laço de repetição é um controle de fluxos que permite que um bloco de códig
 
 # While
 
-O while é executado até que uma determinada condição seja verdadeira.
+O while é executado até que uma determinada condição seja falsa.
 
 No exemplo a seguir, veremos um loop de 0 até 5, que em for seria `for i in range(0, 6):`
 
@@ -12,9 +12,9 @@ No exemplo a seguir, veremos um loop de 0 até 5, que em for seria `for i in ran
   graph TB;
       A([Inicio]) --> B[variavel = 0];
       B --> C{variavel < 5};
-      C -->|verdadeiro| D[variavel + 1];
+      C -->|verdadeiro| D[variavel += 1];
       D --> C;
-      C -->|falso| E['variavel'];
+      C -->|falso| E[imprimir 'variavel'];
       E --> F([Fim])
 ```
 

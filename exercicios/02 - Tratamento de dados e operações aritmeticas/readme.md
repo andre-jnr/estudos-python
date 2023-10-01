@@ -2,7 +2,7 @@
 
 # Int e Float - variáveis do tipo inteiro e real
 
-**Variáveis do tipo inteiro (int):** são os números positivos e negativos, que não apresentam parte decimal e, o zero.
+**Variáveis do tipo inteiro (int):** são os números positivos e negativos, que não apresentam parte decimal e o zero.
 
 - …-1, 0, 2…
 
@@ -25,7 +25,7 @@ Print(n3)
 # Resultado: 5.0
 ```
 
-Para transformar uma variável para outro tipo, é necessário criar uma nova variável:
+Para converter uma variável para outro tipo, você pode criar uma nova variável:
 
 ```python
 n1 = 5

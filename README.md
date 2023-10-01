@@ -1,6 +1,6 @@
 # Estudos de Python
 
-> Anotações, exercícios, desefios e projetos desenvolvidos em python.
+> Anotações, exercícios, desafios e projetos desenvolvidos em python.
 
 ## Sumário
 
@@ -16,14 +16,16 @@
 
 # [Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-Comecei meus aprendizados traçando um roteiro de estudos, "Você nunca vai chegar a lugar nenhum se não souber aonde ta indo". Encontrei um [repositório perfeito no github](https://github.com/kamranahmedse/developer-roadmap), e estou seguindo ele.
+Comecei meu aprendizado elaborando um roteiro de estudos. É muito importante saber aonde você quer chegar, "Você nunca vai chegar a lugar nenhum se não souber aonde ta indo". Encontrei um [repositório perfeito no github](https://github.com/kamranahmedse/developer-roadmap), e estou seguindo ele.
 
 ![image](https://roadmap.sh/roadmaps/python.png)
 
 # Cursos
 
 A maioria dos exercícios foram desenvolvidos no curso de python do Gustavo Guanabara do curso em vídeo, mas vale resaltar que anteriormente eu peguei um
-resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em português), optei pelo curso do Ótavio Miranda.
+resumo no curso do refatorando. Para estudar POO (Programação Orientada a Objetos), optei pelo curso do Ótavio Miranda.
+
+Mas recomendo estudar pela [documentação oficial do python](https://docs.python.org/pt-br/3/).
 
 - <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/" target="_blank">Python - curso em vídeo</a>
 - <a href="https://www.youtube.com/playlist?list=PLj7gJIFoP7jdirAFg-fHe9HKOnGLGXSHZ" target="_blank">Python - refatorando</a>
@@ -31,23 +33,41 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
 # Módulos
 
-- [Primeiros passos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos)
-- [Tratamento de dados e operações ariméticas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas)
-- [Módulos / bibliotecas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos)
-- [Manipulação de textos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos)
-- [Condicionais](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)>)
-- [For - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
-- [While - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
-- [Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
-- [Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
-- [Dicionários](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios)
-- [Funções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es)
-- [Modulação e pacotes](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes)
-- [Tratamento de erro e exceções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es)
+1. [Comandos básicos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos)
+1. [Tratamento de dados e operações ariméticas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas)
+1. [Módulos / bibliotecas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos)
+1. [Manipulação de textos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos)
+1. [Condicionais](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)>)
+1. [For - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
+1. [While - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
+1. [Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
+1. [Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
+1. [Dicionários](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios)
+1. [Funções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es)
+1. [Modulação e pacotes](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes)
+1. [Tratamento de erro e exceções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es)
 
 # Exercícios
 
 > Quando o professor usava uma lógica diferente da minha, eu fazia outra versão do programa. Todas as versões estão disponíveis nesse repositório.
+
+### Sumário de exercícios
+
+1. [Comandos básicos](#1---comandos-básicos)
+1. [Tratamento de dados e operações ariméticas](#2---tratamento-de-dados-e-operações-aritméticas)
+1. [Módulos / bibliotecas](#3---módulos-bibliotecas)
+1. [Manipulação de textos](#4---manipulação-de-textos-strings)
+1. [Condicionais](#5---condicionais)
+1. [For - estrutura de repetição](#6---laço-de-repetição-for)
+1. [While - estrutura de repetição](#7---while)
+1. [Tuplas](#8---tuplas)
+1. [Listas](#9---listas)
+1. [Dicionários](#10---dicionários)
+1. [Funções](#11---funções)
+1. [Modulação e pacotes](#12---modulação-e-pacotes)
+1. [Tratamento de erro e exceções](#13---tratamento-de-erros-e-exceções)
+
+## [1 - Comandos básicos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos)
 
 - [Exercício 01:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/001_deixando_tudo_pronto) Declare uma variavel com o nome do programador e exiba ela ao usuário.
 
@@ -56,6 +76,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 003:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/003_soma) Crie um programa que leia dois números e mostre a soma entre eles.
 
 - [Exercício 004:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/004_tipo_primiticos) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
+
+## [2 - Tratamento de dados e operações aritméticas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas)
 
 - [Exercício 005:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/005_antecessor_sucessor) Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
@@ -81,6 +103,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
 - [Exercício 015:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/015_aluguel_carros) Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
+## [3 - Módulos (bibliotecas)](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos)
+
 - [Exercício 016:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/016_quebrando_numero) Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
 - [Exercício 017:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/017_catetos_hipotenusa) Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
@@ -92,6 +116,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 020:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/020_sorteando_ordem_lista) O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
 - [Exercício 021:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/021_trocando_mp3) Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+## [4 - Manipulação de textos (Strings)](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos)
 
 - [Exercício 022:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/022_analisando_texto) Crie um programa que leia o nome completo de uma pessoa e mostre:
 
@@ -110,6 +136,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 026:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/026_primeira_ultima_ocorrencia_string) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 
 - [Exercício 027:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/027_primeiro_ultimo_nome) Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+
+## [5 - Condicionais](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)>)
 
 - [Exercício 028:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/028_jogo_advinhe_0_5>) Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
@@ -193,6 +221,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
 - [Exercício 045:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/045_pedra_papel_tesoura>) Crie um programa que faça o computador jogar Jokenpô com você.
 
+## [6 - Laço de repetição (for)](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
+
 - [Exercício 046:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/046_contagem_regressiva>) Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
 - [Exercício 047:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/047_pares_de_1_ate_50>) Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
@@ -224,6 +254,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 055:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/055_maior_menor_sequencia>) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 
 - [Exercício 056:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/056_analisador_completo>) Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+
+## [7 - While](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
 
 - [Exercício 057:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)/exercicios/057_validacao_de_dados>) Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores ‘M’ ou ‘F’. Caso esteja errado, peça a digitação novamente até ter um valor correto.
 
@@ -283,6 +315,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
   - considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
+## [8 - Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
+
 - [Exercício 072:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas/exercicios/072_tuplas_times_futebol) Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
 - [Exercício 073:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas/exercicios/073_numeros_por_extensos) Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
@@ -308,6 +342,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 076:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas/exercicios/076_listagem_precos_tupla) Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
 
 - [Exercício 077:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas/exercicios/077_contador_de_vogais) Crie um programa que tenha uma tupla com várias palavras (não usar acentos). Depois disso, você deve mostrar, para cada palavra, quais são as suas vogais.
+
+## [9 - Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
 
 - [Exercício 078:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas/exercicios/078_posicao_maior) Faça um programa que leia 5 valores numéricos e guarde-os em uma lista. No final, mostre qual foi o maior e o menor valor digitado e as suas respectivas posições na lista.
 
@@ -351,6 +387,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
 - [Exercício 089:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas/exercicios/089_boletim_dinamico_com_listas_compostas) Crie um programa que leia nome e duas notas de vários alunos e guarde tudo em uma lista composta. No final, mostre um boletim contendo a média de cada um e permita que o usuário possa mostrar as notas de cada aluno individualmente.
 
+## [10 - Dicionários](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios)
+
 - [Exercício 090:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios/exercicios/090_situa%C3%A7%C3%A3o_aluno) Faça um programa que leia nome e média de um aluno, guardando também a situação em um dicionário. No final, mostre o conteúdo da estrutura na tela.
 
 - [Exercício 091:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios/exercicios/091_simulacao_dados) Crie um programa onde 4 jogadores joguem um dado e tenham resultados aleatórios. Guarde esses resultados em um dicionário em Python. No final, coloque esse dicionário em ordem, sabendo que o vencedor tirou o maior número no dado.
@@ -370,6 +408,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
   - Uma lista de pessoas com idade acima da média
 
 - [Exercício 095:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios/exercicios/095_sistema_jogadores) Aprimore o desafio 93 para que ele funcione com vários jogadores, incluindo um sistema de visualização de detalhes do aproveitamento de cada jogador.
+
+## [11 - Funções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es)
 
 - [Exercício 096:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es/exercicios/096_area_retangulo) Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
@@ -413,6 +453,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 
 - [Exercício 106:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es/exercicios/106_help) Faça um mini-sistema que utilize o Interactive Help do Python. O usuário vai digitar o comando e o manual vai aparecer. Quando o usuário digitar a palavra 'FIM', o programa se encerrará. Importante: use cores.
 
+## [12 - Modulação e pacotes](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes)
+
 - [Exercício 107:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes/exercicios/107-modulacao-basica) Crie um módulo chamado moeda.py que tenha as funções incorporadas aumentar(), diminuir(), dobro() e metade(). Faça também um programa que importe esse módulo e use algumas dessas funções.
 
 - [Exercício 108:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes/exercicios/108-formatando-moeda) Adapte o código do desafio #107, criando uma função adicional chamada moeda() que consiga mostrar os números como um valor monetário formatado.
@@ -424,6 +466,8 @@ resumo no curso do refatorando. Para estudar POO (Orientação a objetos - em po
 - [Exercício 111:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes/exercicios/111-pacotes) Crie um pacote chamado utilidadesCeV que tenha dois módulos internos chamados moeda e dado. Transfira todas as funções utilizadas nos desafios 107, 108 e 109 para o primeiro pacote e mantenha tudo funcionando.
 
 - [Exercício 112:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes/exercicios/112-pacote-validacao-moeda) Dentro do pacote utilidadesCeV que criamos no desafio 111, temos um módulo chamado dado. Crie uma função chamada leiaDinheiro() que seja capaz de funcionar como a função imputa(), mas com uma validação de dados para aceitar apenas valores que seja monetários.
+
+## [13 - Tratamento de erros e exceções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es)
 
 - [Exercício 113:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/exercicios/113-inteiro-real) Reescreva a função leiaInt() que fizemos no desafio 104, incluindo agora a possibilidade da digitação de um número de tipo inválido. Aproveite e crie também uma função leiaFloat() com a mesma funcionalidade.
 

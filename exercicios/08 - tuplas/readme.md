@@ -1,6 +1,6 @@
 # Tuplas
 
-São coleções de dados imutáveis, lista inalteradas.
+São coleções de dados imutáveis, listas inalteradas.
 
 Há dois meios para criar tuplas:
 
@@ -44,7 +44,7 @@ for posicao, comida in enumerate(lanche):
     print(f'Eu vou comer {comida} na posição {posicao}')
 ```
 
-## Algumas funções úteis
+## Funções e métodos úteis
 
 - `tupla.count(elemento)`: retorna a quantidade de vezes em que `elemento` aparece na lista.
 - `tupla.index(elemento)`: retorna o índice/ posição do `elemento`.
