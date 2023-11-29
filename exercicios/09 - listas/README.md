@@ -171,8 +171,8 @@ for item in lista:
 Para percorrer cada item e índice da lista:
 
 ```python
-for chave, elemento in enumerate(lista):
-	print(f"Na posição {chave} encontrei o valor {elemento}!")
+for indice, elemento in enumerate(lista):
+	print(f"Na posição {indice} encontrei o valor {elemento}!")
 ```
 
 Para o usuário inserir 5 valores:

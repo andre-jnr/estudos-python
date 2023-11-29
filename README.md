@@ -25,101 +25,101 @@ Comecei meu aprendizado elaborando um roteiro de estudos. É muito importante sa
 A maioria dos exercícios foram desenvolvidos no curso de python do Gustavo Guanabara do curso em vídeo, mas vale resaltar que anteriormente eu peguei um
 resumo no curso do refatorando. Para estudar POO (Programação Orientada a Objetos), optei pelo curso do Ótavio Miranda.
 
-Mas recomendo estudar pela [documentação oficial do python](https://docs.python.org/pt-br/3/).
+Recomendo estudar pela [documentação oficial do python](https://docs.python.org/pt-br/3/).
 
 - <a href="https://www.cursoemvideo.com/curso/python-3-mundo-1/" target="_blank">Python - curso em vídeo</a>
 - <a href="https://www.youtube.com/playlist?list=PLj7gJIFoP7jdirAFg-fHe9HKOnGLGXSHZ" target="_blank">Python - refatorando</a>
 - <a href="https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr" target="_blank">Python - Otavio Miranda</a>
 
-# Módulos
+# **Módulos**
 
-1. [Comandos básicos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos)
-1. [Tratamento de dados e operações ariméticas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas)
-1. [Módulos / bibliotecas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos)
-1. [Manipulação de textos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos)
-1. [Condicionais](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)>)
-1. [For - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
-1. [While - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
-1. [Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
-1. [Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
-1. [Dicionários](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios)
-1. [Funções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es)
-1. [Modulação e pacotes](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes)
-1. [Tratamento de erro e exceções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es)
+1. [Comandos básicos](/exercicios/01-comandos_basicos/readme.md)
+2. [Tratamento de dados e operações ariméticas](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/readme.md)
+3. [Módulos / bibliotecas](/exercicios/03-modulos/readme.md)
+4. [Manipulação de textos](/exercicios/04-manipulacao_de_textos/readme.md)
+5. [Condicionais](/exercicios/05-condicionais/readme.md)
+6. [For - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
+7. [While - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
+8. [Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
+9. [Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
+10. [Dicionários](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/10%20-%20dicionarios)
+11. [Funções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/11%20-%20fun%C3%A7%C3%B5es)
+12. [Modulação e pacotes](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/12%20-%20Modula%C3%A7%C3%A3o%20e%20pacotes)
+13. [Tratamento de erro e exceções](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/13%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es)
 
 # Exercícios
 
 > Quando o professor usava uma lógica diferente da minha, eu fazia outra versão do programa. Todas as versões estão disponíveis nesse repositório.
 
-### Sumário de exercícios
+## Sumário de exercícios
 
-1. [Comandos básicos](#1---comandos-básicos)
-1. [Tratamento de dados e operações ariméticas](#2---tratamento-de-dados-e-operações-aritméticas)
-1. [Módulos / bibliotecas](#3---módulos-bibliotecas)
-1. [Manipulação de textos](#4---manipulação-de-textos-strings)
-1. [Condicionais](#5---condicionais)
-1. [For - estrutura de repetição](#6---laço-de-repetição-for)
-1. [While - estrutura de repetição](#7---while)
-1. [Tuplas](#8---tuplas)
-1. [Listas](#9---listas)
-1. [Dicionários](#10---dicionários)
-1. [Funções](#11---funções)
-1. [Modulação e pacotes](#12---modulação-e-pacotes)
-1. [Tratamento de erro e exceções](#13---tratamento-de-erros-e-exceções)
+  1. [Comandos básicos](#1---comandos-básicos)
+  1. [Tratamento de dados e operações aritméticas](#2---tratamento-de-dados-e-operações-aritméticas)
+  1. [Módulos (bibliotecas)](#3---módulos-bibliotecas)
+  1. [Manipulação de textos (Strings)](#4---manipulação-de-textos-strings)
+  1. [Condicionais](#5---condicionais)
+  1. [Laço de repetição (for)](#6---laço-de-repetição-for)
+  1. [While](#7---while)
+  1. [Tuplas](#8---tuplas)
+  1. [Listas](#9---listas)
+  1. [Dicionários](#10---dicionários)
+  1. [Funções](#11---funções)
+  1. [Modulação e pacotes](#12---modulação-e-pacotes)
+  1. [Tratamento de erros e exceções](#13---tratamento-de-erros-e-exceções)
 
-## [1 - Comandos básicos](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos)
+## [1 - Comandos básicos](/exercicios/01-comandos_basicos/readme.md)
 
-- [Exercício 01:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/001_deixando_tudo_pronto) Declare uma variavel com o nome do programador e exiba ela ao usuário.
+- [Exercício 01:](/exercicios/01-comandos_basicos/exercicios/001_deixando_tudo_pronto/) Declare uma variavel com o nome do programador e exiba ela ao usuário.
 
-- [Exercício 002:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/002_boas-vindas) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- [Exercício 002:](/exercicios/01-comandos_basicos/exercicios/002_boas-vindas/002_boas-vindas.py) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
-- [Exercício 003:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/003_soma) Crie um programa que leia dois números e mostre a soma entre eles.
+- [Exercício 003:](/exercicios/01-comandos_basicos/exercicios/003_soma/003_soma.py) Crie um programa que leia dois números e mostre a soma entre eles.
 
-- [Exercício 004:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/004_tipo_primiticos) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
+- [Exercício 004:](/exercicios/01-comandos_basicos/exercicios/004_tipo_primiticos/004_revelando_tipo_primitivo.py) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
 
-## [2 - Tratamento de dados e operações aritméticas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas)
+## [2 - Tratamento de dados e operações aritméticas](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/readme.md)
 
-- [Exercício 005:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/005_antecessor_sucessor) Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+- [Exercício 005:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/005_antecessor_sucessor/005_code_antecessor_sucessor.py) Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
-- [Exercício 006:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/006_dobro_triplo_raiz-quadrada) Crie um algoritmo que leia um número e mostre seu dobro, triplo e raiz quadrada.
+- [Exercício 006:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/006_dobro_triplo_raiz-quadrada/006_code_dobro_triplo_raiz-quadrada.py) Crie um algoritmo que leia um número e mostre seu dobro, triplo e raiz quadrada.
 
-- [Exercício 007:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/007_media_aritmetica) Desenvolva um programa que leia as duas notas de um aluno, calcule emostre a sua média.
+- [Exercício 007:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/007_media_aritmetica/007_media.py) Desenvolva um programa que leia as duas notas de um aluno, calcule emostre a sua média.
 
-- [Exercício 008:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/008_conversor_medidas) Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+- [Exercício 008:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/008_conversor_medidas/008_code_conversor_medidas.py) Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
-- [Exercício 009:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/009_tabuada) Faça um programa que leia um número inteiro e mostre na tela a sua tabuada.
+- [Exercício 009:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/009_tabuada/009_tabuada_multiplicacao.py) Faça um programa que leia um número inteiro e mostre na tela a sua tabuada.
 
-- [Exercício 010:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/010_conversor_moedas) Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+- [Exercício 010:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/010_conversor_moedas/010_code_conversor_moedas.py) Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
   - Considere que US$1,00 = R$3,27
 
-- [Exercício 011:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/011_pintando_parede) Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la sabendo que cada litro de tinta, pinta uma área de 2m².
+- [Exercício 011:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/011_pintando_parede/011_code_tinta_necessaria.py) Faça um programa que leia a largura e a altura de uma parede em metros, calcule a sua área e a quantidade de tinta necessária para pintá-la sabendo que cada litro de tinta, pinta uma área de 2m².
 
-- [Exercício 012:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/012_calculadora_impostos) Faça um algoritmo que leia o preço de um produto e mostre seu novo preo, com 5% de desconto.
+- [Exercício 012:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/012_calculadora_impostos/012_calculadora_impostos.py) Faça um algoritmo que leia o preço de um produto e mostre seu novo preo, com 5% de desconto.
 
-- [Exercício 013:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/013_reajuste_salarial) Faça um algoritmo que leia o salário de um funcionária e mostre seu novo salário, com 15% de aumento.
+- [Exercício 013:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/013_reajuste_salarial/013_correcao_professor.py) Faça um algoritmo que leia o salário de um funcionária e mostre seu novo salário, com 15% de aumento.
 
-- [Exercício 014:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/014_conversor_temperaturas) Escreve um programa que converta uma temperatura digitada em °C e converta para °F.
+- [Exercício 014:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/014_conversor_temperaturas/014_conversor_temperaturas.py) Escreve um programa que converta uma temperatura digitada em °C e converta para °F.
 
-- [Exercício 015:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/02%20-%20Tratamento%20de%20dados%20e%20opera%C3%A7%C3%B5es%20aritmeticas/exercicios/015_aluguel_carros) Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+- [Exercício 015:](/exercicios/02-tratamento_de_dados_e_operacoes_aritmeticas/exercicios/015_aluguel_carros/015_aluguel_carros.py) Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
-## [3 - Módulos (bibliotecas)](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos)
+## [3 - Módulos (bibliotecas)](/exercicios/03-modulos/readme.md)
 
-- [Exercício 016:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/016_quebrando_numero) Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+- [Exercício 016:](/exercicios/03-modulos/exercicios/016_quebrando_numero/016_arrendondando_numero.py) Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
 
-- [Exercício 017:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/017_catetos_hipotenusa) Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+- [Exercício 017:](/exercicios/03-modulos/exercicios/017_catetos_hipotenusa/017_cateto_hipotenusa.py) Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
 
-- [Exercício 018:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/018_trigonometria) Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+- [Exercício 018:](/exercicios/03-modulos/exercicios/018_trigonometria/018_seno_cosseno_tangente.py) Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
 
-- [Exercício 019:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/019_sorteando_itens_lista) Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+- [Exercício 019:](/exercicios/03-modulos/exercicios/019_sorteando_itens_lista/019_sorteando_item_lista.py) Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
 
-- [Exercício 020:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/020_sorteando_ordem_lista) O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+- [Exercício 020:](/exercicios/03-modulos/exercicios/020_sorteando_ordem_lista/020_sorteando_ordem_lista.py) O mesmo professor do desafio 19 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
 
-- [Exercício 021:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/03%20-%20Modulos/exercicios/021_trocando_mp3) Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+- [Exercício 021:](/exercicios/03-modulos/exercicios/021_trocando_mp3/021_tocando_mp3.py) Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
 
-## [4 - Manipulação de textos (Strings)](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos)
+## [4 - Manipulação de textos (Strings)](/exercicios/04-manipulacao_de_textos/readme.md)
 
-- [Exercício 022:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/022_analisando_texto) Crie um programa que leia o nome completo de uma pessoa e mostre:
+- [Exercício 022:](/exercicios/04-manipulacao_de_textos/exercicios/022_analisando_texto/022_analisador_texto.py) Crie um programa que leia o nome completo de uma pessoa e mostre:
 
   - O nome com todas as letras maiúsculas e minúscula.
 
@@ -127,39 +127,39 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - Quantas letras tem o primeiro nome.
 
-- [Exercício 023:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/023_separando_digitos) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- [Exercício 023:](/exercicios/04-manipulacao_de_textos/exercicios/023_separando_digitos/023_separador_digitos.py) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
-- [Exercício 024:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/024_verificando_primeiras_letras_texto) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
+- [Exercício 024:](/exercicios/04-manipulacao_de_textos/exercicios/024_verificando_primeiras_letras_texto/024_verificador_primeira_letra_texto.py) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
 
-- [Exercício 025:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/025_procurando_string_dentro_string) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
+- [Exercício 025:](/exercicios/04-manipulacao_de_textos/exercicios/025_procurando_string_dentro_string/025_pessoa_silva_no_nome.py) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
 
-- [Exercício 026:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/026_primeira_ultima_ocorrencia_string) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+- [Exercício 026:](/exercicios/04-manipulacao_de_textos/exercicios/026_primeira_ultima_ocorrencia_string/026_quantos_a.py) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
 
-- [Exercício 027:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/027_primeiro_ultimo_nome) Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
+- [Exercício 027:](/exercicios/04-manipulacao_de_textos/exercicios/027_primeiro_ultimo_nome/027_primero_ultimo_nome.py) Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.
 
-## [5 - Condicionais](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)>)
+## [5 - Condicionais](/exercicios/05-condicionais/readme.md)
 
-- [Exercício 028:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/028_jogo_advinhe_0_5>) Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+- [Exercício 028:](/exercicios/05-condicionais/exercicios/028_jogo_advinhe_0_5/028_de_0_5.py) Escreva um programa que faça o computador “pensar” em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
 
-- [Exercício 029:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/029_radar%20eletronico>) Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+- [Exercício 029:](/exercicios/05-condicionais/exercicios/029_radar%20eletronico/029_multa_km.py) Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
 
-- [Exercício 030:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/030_par_ou_impar>) Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+- [Exercício 030:](/exercicios/05-condicionais/exercicios/030_par_ou_impar/030_par_ou_impar.py) Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
 
-- [Exercício 031:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/031_custo_viagem>) Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+- [Exercício 031:](/exercicios/05-condicionais/exercicios/031_custo_viagem/031_passagem.py) Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
 
-- [Exercício 032:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/032_ano_bissexto>) Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+- [Exercício 032:](/exercicios/05-condicionais/exercicios/032_ano_bissexto/032_ano_bissexto.py) Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
 
-- [Exercício 033:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/033_maior_menor_valor>) Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+- [Exercício 033:](/exercicios/05-condicionais/exercicios/033_maior_menor_valor/033_maior_menor.py) Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
-- [Exercício 034:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/034_aumentos_multiplos>) Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+- [Exercício 034:](/exercicios/05-condicionais/exercicios/034_aumentos_multiplos/034_aumento_salarial.py) Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
 
-- [Exercício 035:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/035_analisando_triangulo>) Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+- [Exercício 035:](/exercicios/05-condicionais/exercicios/035_analisando_triangulo/035_triangulo.py) Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
 
-- [Exercício 036:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/036_aprovando_emprestimo>) Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+- [Exercício 036:](/exercicios/05-condicionais/exercicios/036_aprovando_emprestimo/036_Emprestimo.py) Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
 
-- [Exercício 037:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/037_conversor_base_binario>) Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
+- [Exercício 037:](/exercicios/05-condicionais/exercicios/037_conversor_base_binario/037_conversor_binario.py) Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.Escreva um programa em Python que leia um número inteiro qualquer e peça para o usuário escolher qual será a base de conversão: 1 para binário, 2 para octal e 3 para hexadecimal.
 
-- [Exercício 038:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/038_comparando_numeros>) Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
+- [Exercício 038:](/exercicios/05-condicionais/exercicios/038_comparando_numeros/038_maior.py) Escreva um programa que leia dois números inteiros e compare-os. mostrando na tela uma mensagem:
 
   - O primeiro valor é maior
 
@@ -167,9 +167,9 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - Não existe valor maior, os dois são iguais
 
-- [Exercício 039:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/039_alistamento_militar>) Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
+- [Exercício 039:](/exercicios/05-condicionais/exercicios/039_alistamento_militar/039_exercito.py) Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com a sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora exata de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 
-- [Exercício 040:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/040_media_com_aprovacao>) Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+- [Exercício 040:](/exercicios/05-condicionais/exercicios/040_media_com_aprovacao/040_media.py) Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
 
   - Média abaixo de 5.0: REPROVADO
 
@@ -177,7 +177,7 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - Média 7.0 ou superior: APROVADO
 
-- [Exercício 041:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/041_classificando_atletas>) A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
+- [Exercício 041:](/exercicios/05-condicionais/exercicios/041_classificando_atletas/041_classificador_natacao.py) A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua categoria, de acordo com a idade:
 
   - Até 9 anos: MIRIM
 
@@ -189,7 +189,7 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - Acima de 25 anos: MASTER
 
-- [Exercício 042:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/042_analisando_triangulo_condicional>) Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+- [Exercício 042:](/exercicios/05-condicionais/exercicios/042_analisando_triangulo_condicional/042_triangulo.py) Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 
   - EQUILÁTERO: todos os lados iguais
 
@@ -197,7 +197,7 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - ESCALENO: todos os lados diferentes
 
-- [Exercício 043:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/043_indice_massa_corporal>) Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+- [Exercício 043:](/exercicios/05-condicionais/exercicios/043_indice_massa_corporal/043_imc.py) Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
 
   - IMC abaixo de 18,5: Abaixo do Peso
 
@@ -209,7 +209,7 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - Acima de 40: Obesidade Mórbida
 
-- [Exercício 044:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/044_gerenciando_pagamentos>) Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+- [Exercício 044:](/exercicios/05-condicionais/exercicios/044_gerenciando_pagamentos/044_gerenciador_pagamentos.py) Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
 
   - à vista dinheiro/cheque: 10% de desconto
 
@@ -219,7 +219,7 @@ Mas recomendo estudar pela [documentação oficial do python](https://docs.pytho
 
   - 3x ou mais no cartão: 20% de juros
 
-- [Exercício 045:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/05%20-%20condicionais%20(if%2C%20elif%2C%20else)/exercicios/045_pedra_papel_tesoura>) Crie um programa que faça o computador jogar Jokenpô com você.
+- [Exercício 045:](/exercicios/05-condicionais/exercicios/045_pedra_papel_tesoura/045_pedra_papel_tesoura.py) Crie um programa que faça o computador jogar Jokenpô com você.
 
 ## [6 - Laço de repetição (for)](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
 

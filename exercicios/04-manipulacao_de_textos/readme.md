@@ -103,7 +103,7 @@ print(f'R${listagem[produto]:>7.2f}')
 
 # Exercicios
 
-- [Exercício 022:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/022_analisando_texto) Crie um programa que leia o nome completo de uma pessoa e mostre:
+- [Exercício 022:](/exercicios/04-manipulacao_de_textos/exercicios/022_analisando_texto/022_analisador_texto.py) Crie um programa que leia o nome completo de uma pessoa e mostre:
 
   - O nome com todas as letras maiúsculas e minúscula.
 
@@ -111,10 +111,12 @@ print(f'R${listagem[produto]:>7.2f}')
 
   - Quantas letras tem o primeiro nome.
 
-- [Exercício 023:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/023_separando_digitos) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+- [Exercício 023:](/exercicios/04-manipulacao_de_textos/exercicios/023_separando_digitos/023_separador_digitos.py) Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
 
-- [Exercício 024:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/024_verificando_primeiras_letras_texto) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
+- [Exercício 024:](/exercicios/04-manipulacao_de_textos/exercicios/024_verificando_primeiras_letras_texto/024_verificador_primeira_letra_texto.py) Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome “SANTO”.
 
-- [Exercício 025:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/025_procurando_string_dentro_string) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
+- [Exercício 025:](/exercicios/04-manipulacao_de_textos/exercicios/025_procurando_string_dentro_string/025_pessoa_silva_no_nome.py) Crie um programa que leia o nome de uma pessoa e diga se ela tem “SILVA” no nome.
 
-- [Exercício 026:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/04%20-%20manipula%C3%A7%C3%A3o%20de%20textos/exercicios/026_primeira_ultima_ocorrencia_string) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+- [Exercício 026:](/exercicios/04-manipulacao_de_textos/exercicios/026_primeira_ultima_ocorrencia_string/026_quantos_a.py) Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra “A”, em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+- [Exercício 027:](/exercicios/04-manipulacao_de_textos/exercicios/027_primeiro_ultimo_nome/027_primero_ultimo_nome.py) Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.

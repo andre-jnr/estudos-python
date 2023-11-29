@@ -111,10 +111,10 @@ print(f"{nome} gosta de {gosto} e tem {idade} anos")
 
 Agora você tem o necessário para tomar os primeiros passos em python!
 
-- [Exercício 01:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/001_deixando_tudo_pronto) Declare uma variavel com o nome do programador e exiba ela ao usuário.
+- [Exercício 01:](/exercicios/01-comandos_basicos/exercicios/001_deixando_tudo_pronto/) Declare uma variavel com o nome do programador e exiba ela ao usuário.
 
-- [Exercício 002:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/002_boas-vindas) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- [Exercício 002:](/exercicios/01-comandos_basicos/exercicios/002_boas-vindas/002_boas-vindas.py) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
-- [Exercício 003:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Primeiros%20passos/exercicios/003_soma) Crie um programa que leia dois números e mostre a soma entre eles.
+- [Exercício 003:](/exercicios/01-comandos_basicos/exercicios/003_soma/003_soma.py) Crie um programa que leia dois números e mostre a soma entre eles.
 
-- [Exercício 004:](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/01%20-%20Comandos%20b%C3%A1sicos/exercicios/004_tipo_primiticos) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
+- [Exercício 004:](/exercicios/01-comandos_basicos/exercicios/004_tipo_primiticos/004_revelando_tipo_primitivo.py) faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo, e todas as informações possíveis sobre ela.
