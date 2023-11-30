@@ -92,11 +92,12 @@ len(variavel1) > len(variavel 2)
 
 ## Biblioteca de matemática
 
-Biblioteca é são um conjunto de função, e nem todas as funções estão disponíveis nativamente
-no Python, para usar esses recursos, importamos a biblioteca.
+Há várias funções já preestabelecidas, mas nem todas as funções estão disponíeveis nativamente no Python. Para poder usufruir desses recursos, importamos uma biblioteca.
+
+> 📌 Bibliotecas são conjuntos de funções.
 
 ```python
-import math # Para importar
+import math # Para importar de matemática
 ```
 
 - `math.floor(n)`: retorna o arredondamento de `n` para baixo.
@@ -110,7 +111,7 @@ Se você não quiser importar toda a biblioteca, você pode importar só a funç
 
 ```python
 from math import floor
-# Importa só a função floor
+# Importando apenas a função floor
 ```
 
 - `floor(n)`: retorna o arredondamento de `n` para baixo.
