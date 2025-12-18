@@ -38,7 +38,7 @@ Recomendo estudar pela [documentação oficial do python](https://docs.python.or
 3. [Módulos / bibliotecas](/exercicios/03-modulos/readme.md)
 4. [Manipulação de textos](/exercicios/04-manipulacao_de_textos/readme.md)
 5. [Condicionais](/exercicios/05-condicionais/readme.md)
-6. [For - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
+6. [For - estrutura de repetição](/exercicios/06-for/readme.md)
 7. [While - estrutura de repetição](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
 8. [Tuplas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/08%20-%20tuplas)
 9. [Listas](https://github.com/andre-jnr/estudos-python/tree/main/exercicios/09%20-%20listas)
@@ -69,7 +69,7 @@ Recomendo estudar pela [documentação oficial do python](https://docs.python.or
 
 ## [1 - Comandos básicos](/exercicios/01-comandos_basicos/readme.md)
 
-- [Exercício 01:](/exercicios/01-comandos_basicos/exercicios/001_deixando_tudo_pronto/) Declare uma variavel com o nome do programador e exiba ela ao usuário.
+- [Exercício 01:](/exercicios/01-comandos_basicos/exercicios/001_deixando_tudo_pronto/001_code_utilizando_var_print.py) Declare uma variavel com o nome do programador e exiba ela ao usuário.
 
 - [Exercício 002:](/exercicios/01-comandos_basicos/exercicios/002_boas-vindas/002_boas-vindas.py) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
@@ -221,23 +221,23 @@ Recomendo estudar pela [documentação oficial do python](https://docs.python.or
 
 - [Exercício 045:](/exercicios/05-condicionais/exercicios/045_pedra_papel_tesoura/045_pedra_papel_tesoura.py) Crie um programa que faça o computador jogar Jokenpô com você.
 
-## [6 - Laço de repetição (for)](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)>)
+## [6 - Laço de repetição (for)](/exercicios/06-for/readme.md)
 
-- [Exercício 046:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/046_contagem_regressiva>) Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+- [Exercício 046:](/exercicios/06-for/exercicios/046_contagem_regressiva/046_Foguete.py) Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles.
 
-- [Exercício 047:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/047_pares_de_1_ate_50>) Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
+- [Exercício 047:](/exercicios/06-for/exercicios/047_pares_de_1_ate_50/047_pares_de_ate_50.py) Crie um programa que mostre na tela todos os números pares que estão no intervalo entre 1 e 50.
 
-- [Exercício 048:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/048_soma_impares_multiloes_3>) Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
+- [Exercício 048:](/exercicios/06-for/exercicios/048_soma_impares_multiloes_3/048_impares.py) Faça um programa que calcule a soma entre todos os números que são múltiplos de três e que se encontram no intervalo de 1 até 500.
 
-- [Exercício 049:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/049_tabuada_for>) Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+- [Exercício 049:](/exercicios/06-for/exercicios/049_tabuada_for/049_tabuada.py) Refaça o DESAFIO 9, mostrando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
 
-- [Exercício 050:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/050_soma_pares>) Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
+- [Exercício 050:](/exercicios/06-for/exercicios/050_soma_pares/050_soma_int.py) Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for ímpar, desconsidere-o.
 
-- [Exercício 051:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/051_progressao_aritmetica>) Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
+- [Exercício 051:](/exercicios/06-for/exercicios/051_progressao_aritmetica/051_razao_pa.py) Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos dessa progressão.
 
-- [Exercício 052:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/052_numeros_primos>) Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+- [Exercício 052:](/exercicios/06-for/exercicios/052_numeros_primos/052_primos.py) Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
 
-- [Exercício 053:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/053_derector_palindromo>) Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos:
+- [Exercício 053:](/exercicios/06-for/exercicios/053_derector_palindromo/053.py) Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços. Exemplos de palíndromos:
 
   - APOS A SOPA
 
@@ -249,11 +249,11 @@ Recomendo estudar pela [documentação oficial do python](https://docs.python.or
 
   - ANOTARAM A DATA DA MARATONA.
 
-- [Exercício 054:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/054_grupo_maioridade>) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+- [Exercício 054:](/exercicios/06-for/exercicios/054_grupo_maioridade/054_maioridade.py) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 
-- [Exercício 055:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/055_maior_menor_sequencia>) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
+- [Exercício 055:](/exercicios/06-for/exercicios/055_maior_menor_sequencia/055_peso.py) Crie um programa que leia o ano de nascimento de sete pessoas. No final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores.
 
-- [Exercício 056:](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/06%20-%20repeti%C3%A7%C3%A3o%20(for)/exercicios/056_analisador_completo>) Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+- [Exercício 056:](/exercicios/06-for/exercicios/056_analisador_completo/056_grupo.py) Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
 
 ## [7 - While](<https://github.com/andre-jnr/estudos-python/tree/main/exercicios/07%20-%20repeti%C3%A7%C3%A3o%20(while)>)
 
