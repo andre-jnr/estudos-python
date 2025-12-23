@@ -3,7 +3,7 @@
 ## O que vamos estudar?
 
 - OOP **(Object-Oriented Programming)**
-    - Embasamento
+    - [Embasamento](/exercicios/14-POO/01-crise_do_software-o_motivo_do_surgimento_da_POO.md)
         - De onde veio?
         - Para que serve?
         - As vantagens de uso
