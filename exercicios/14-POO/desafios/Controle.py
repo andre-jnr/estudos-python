@@ -14,7 +14,7 @@ class ControleRemoto:
   def __init__(self, tv_ligada=False):
     self.tv_ligada = tv_ligada
     self.canais = [' ' for i in range(1, 6)]
-    self.faixa_volume = [' ' for i in range(0, 6)]
+    self.faixa_volume = [' ' for i in range(0, 5)]
     self.canal = 1
     self.volume = 0
 
@@ -53,18 +53,21 @@ class ControleRemoto:
     try:
         usuario = str(input(''))
 
-        if usuario == '@':
-          self.ligar_desligar()
-        else:
-          match usuario:
+        if not self.tv_ligada and usuario != '@':
+          self.mostrarTV()
+          return
+
+        match usuario:
+            case '@':
+                self.ligar_desligar()
             case '<':
-              self.voltar_canal()
+                self.voltar_canal()
             case '>':
-              self.avancar_canal()
+                self.avancar_canal()
             case '-':
-              self.diminuir_volume()
+                self.diminuir_volume()
             case '+':
-              self.aumentar_volume()
+                self.aumentar_volume()
 
         self.mostrarTV()
     
