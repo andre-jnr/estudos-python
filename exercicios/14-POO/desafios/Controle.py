@@ -49,31 +49,6 @@ class ControleRemoto:
     else:
       self.volume += 1
 
-  def acoes(self):
-    try:
-        usuario = str(input(''))
-
-        if not self.tv_ligada and usuario != '@':
-          self.mostrarTV()
-          return
-
-        match usuario:
-            case '@':
-                self.ligar_desligar()
-            case '<':
-                self.voltar_canal()
-            case '>':
-                self.avancar_canal()
-            case '-':
-                self.diminuir_volume()
-            case '+':
-                self.aumentar_volume()
-
-        self.mostrarTV()
-    
-    except KeyboardInterrupt:
-      self.mostrarTV()
-
 
   def mostrarTV(self):
     os.system('cls' if os.name == 'nt' else 'clear')
@@ -112,6 +87,30 @@ VOLUME = {faixa_volume}''',
 
 
 TV = ControleRemoto()
+
 while True:
   TV.mostrarTV()
-  TV.acoes()
+
+  try:
+      usuario = input('')
+      if not TV.tv_ligada and usuario != '@':
+          TV.mostrarTV()
+          
+      match usuario:
+          case '@':
+              TV.ligar_desligar()
+          case '<':
+              TV.voltar_canal()
+          case '>':
+              TV.avancar_canal()
+          case '-':
+              TV.diminuir_volume()
+          case '+':
+              TV.aumentar_volume()
+          case '0':
+              break
+
+      TV.mostrarTV()
+
+  except KeyboardInterrupt:
+      TV.mostrarTV()
